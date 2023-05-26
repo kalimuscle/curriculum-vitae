@@ -1,11 +1,8 @@
 ---
 title: Volunteer Position
-organization: Some Nonprofit
-startDate: April 2015
-endDate: February 2018
+organization: Geocuba
+startDate: April 2006
+endDate: February 2007
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tristique senectus et netus et malesuada fames ac.
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 🎉
-- Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. 🎉
+My experience as an intern at GeoCuba provided me with a valuable opportunity to learn and grow as a software developer. I learned how to work in a dynamic team and apply my knowledge in the development of effective and realistic solutions. In addition, I learned to work with technologies such as OpenGL and Unreal Engine, which allowed me to expand my skill set and be better prepared for future challenges.
